@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/jsapi.jar"/>
+	<classpathentry kind="lib" path="lib/sphinx4.jar"/>
+	<classpathentry kind="lib" path="lib/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="lib" path="lib/batch.jar"/>
+	<classpathentry kind="lib" path="lib/js.jar"/>
+	<classpathentry kind="lib" path="lib/jsapi-1.0-base.jar"/>
+	<classpathentry kind="lib" path="lib/parsii.jar"/>
+	<classpathentry kind="lib" path="lib/tags.jar"/>
+	<classpathentry kind="lib" path="lib/TIDIGITS_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="lib" path="lib/WSJ_8gau_13dCep_8kHz_31mel_200Hz_3500Hz.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eugene/Desktop/jar/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eugene/Desktop/jar/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eugene/Desktop/jar/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eugene/Desktop/jar/cmudict04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eugene/Desktop/jar/cmulex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eugene/Desktop/jar/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eugene/Desktop/jar/en_us.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eugene/Desktop/jar/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eugene/Desktop/jar/mbrola.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-builder-5.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="lib/marytts-lang-en-5.2.jar"/>
+	<classpathentry kind="lib" path="lib/voice-cmu-slt-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="lib/voice-dfki-poppy-hsmm-5.1.jar"/>
+	<classpathentry kind="lib" path="lib/voice-dfki-prudence-hsmm-5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

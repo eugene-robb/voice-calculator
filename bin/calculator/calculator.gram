@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for voice calculator
+ */
+
+grammar calculator;
+
+public <operators> =  (zero | one | two | three | four | five | six | seven | eight | nine);
+public <operands> = (add | plus | minus | take away | multiplied by | times | over | divided by | divide);
+public <actions> = (clear all  | backspace | equals | dot | point | decimal point | voice mode | 
+					voice mode off | delete history | file | exit | repeat answer);
+
+
+
